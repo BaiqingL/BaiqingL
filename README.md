@@ -13,4 +13,6 @@ A little bit more about where I am:
 
 ⚡ Skills: Python, Rust, C++, Golang, Version Control...
 
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaiqingL)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true&theme=onedark)
