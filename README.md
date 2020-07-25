@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is [Baiqing 柏庆](https://skylantern.social)
 
-I am currently a *student*🎓 majoring in **computer science**💻.
+I am currently a 🎓 majoring in 💻.
 
 ---
 A little bit more about where I am:
