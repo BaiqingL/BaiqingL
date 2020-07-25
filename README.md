@@ -4,8 +4,8 @@ I am currently a 🎓 majoring in 💻.
 
 ---
 A little bit more about where I am:
-- 🔭 I’m currently working on secure and reliable communications
-- 🌱 I’m currently learning about unsupervised neural networks
+- 🔭 Working on secure and reliable communications
+- 🌱 Learning about unsupervised neural networks
 - 😄 Pronouns: He/Him/His
 - ⚡ Skills: Python, Rust, C++, Golang, Version Control...
 
