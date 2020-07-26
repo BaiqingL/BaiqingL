@@ -1,5 +1,8 @@
 # Hi there 👋, my name is [吕柏庆](https://skylantern.social) ![Profile views](https://gpvc.arturio.dev/BaiqingL)
-I am currently a 🎓 majoring in 💻🔬 at<img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/school-banner.png" width="80">
+
+<img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="150">
+
+I am currently a 🎓 majoring in 💻🔬.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true)
 
