@@ -1,5 +1,4 @@
-# Hi there 👋, my name is [吕柏庆](https://skylantern.social)
-
+# Hi there 👋, my name is [吕柏庆](https://skylantern.social) ![Profile views](https://gpvc.arturio.dev/BaiqingL)
 I am currently a 🎓 majoring in 💻.
 
 ---
