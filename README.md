@@ -14,4 +14,4 @@ I am currently a 🎓 majoring in 💻🔬.
 * 😄 Pronouns: He/Him/His
 * ⚙️ Skills: Python, Rust, C++, Golang, Version Control...
 
-![](questionable.svg)
+<img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/questionable.svg">
