@@ -13,3 +13,5 @@ I am currently a 🎓 majoring in 💻🔬.
 * 🧠 Learning about unsupervised neural networks
 * 😄 Pronouns: He/Him/His
 * ⚙️ Skills: Python, Rust, C++, Golang, Version Control...
+
+![](questionable.svg)
