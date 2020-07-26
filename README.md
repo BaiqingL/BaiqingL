@@ -9,4 +9,4 @@ I am currently a 🎓 majoring in 💻.
 * 😄 Pronouns: He/Him/His
 * ⚡ Skills: Python, Rust, C++, Golang, Version Control...
 
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaiqingL) ![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true)
