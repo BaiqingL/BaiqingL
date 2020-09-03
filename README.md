@@ -1,4 +1,4 @@
-# Hi there 👋, my name is [吕柏庆](https://skylantern.social) ![Profile views](https://gpvc.arturio.dev/BaiqingL)
+# Hi there 👋, my name is [吕柏庆/Baiqing Lyu](https://skylantern.social) ![Profile views](https://gpvc.arturio.dev/BaiqingL)
 
 <img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="150">
 
