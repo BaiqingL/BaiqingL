@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="150">
 
-I am currently a 🎓 majoring in 💻🔬.
+I am currently a 👨‍💻 working at TikTok.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true)
 
