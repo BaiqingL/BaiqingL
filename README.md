@@ -1,4 +1,4 @@
-# Hi there 👋, my name is [吕柏庆/Baiqing Lyu](https://baiqinglyu.engineer/) ![Profile views(https://komarev.com/ghpvc/?username=BaiqingL)
+# Hi there 👋, my name is [吕柏庆/Baiqing Lyu](https://baiqinglyu.engineer/) ![Profile views](https://komarev.com/ghpvc/?username=BaiqingL)
 
 <img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="150">
 
