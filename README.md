@@ -1,6 +1,6 @@
 # Hi there 👋, my name is [吕柏庆/Baiqing Lyu](https://baiqinglyu.engineer/) ![Profile views](https://komarev.com/ghpvc/?username=BaiqingL)
 
-I am currently a 👨‍💻 working at TikTok. Currently, I work on data stream processing and recommendations related projects.
+I am the co-founder and CTO of [Osmosis](https://osmosis.ai).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BaiqingL&show_icons=true)
 
